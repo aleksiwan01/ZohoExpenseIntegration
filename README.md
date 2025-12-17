@@ -11,7 +11,7 @@ Note: You will have to change the domain based on your geography
 <img width="484" height="804" alt="image" src="https://github.com/user-attachments/assets/2f9087b5-14f0-435e-800b-5d741d7d619d" />
 <img width="1323" height="202" alt="image" src="https://github.com/user-attachments/assets/74215a57-5e1d-4211-aae5-03e524b46310" />
 
-Once you are logged in, you will want to 'Create Client'
+Once you are logged in, you will want to 'Add Client'
 <img width="232" height="114" alt="image" src="https://github.com/user-attachments/assets/c9243861-f1cc-49b3-872d-2c56c27620e5" />
 
 Then select 'Server-based Applications'
